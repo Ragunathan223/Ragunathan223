@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ragunathan223
+- 👋 Hi, I’m @Ragunathan
 - 👀 I’m interested in Python,SQL,SPSS,Tableau
 - 🌱 I’m currently learning Python,SQL
 - 💞️ I’m looking to collaborate on 
